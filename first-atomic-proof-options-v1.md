@@ -38,7 +38,6 @@ Submit:
 - A screenshot or copied excerpt of the section that helped
 - A short explanation of why it made Post Fiat clearer
 
-
 ---
 
 ## Option 2: Friction Signal
@@ -64,7 +63,6 @@ Submit:
 - A screenshot or copied excerpt of the section that caused friction
 - A short explanation of the confusion
 - One suggested improvement
-
 
 ---
 
