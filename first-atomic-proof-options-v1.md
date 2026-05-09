@@ -91,9 +91,12 @@ Submit:
 - One sentence explaining what made you move from passive interest to active exploration
 
 ---
-**Privacy rule:**
+
+## Privacy rule
 
 Use only public or privacy-safe references. Do not include private chats, personal account details, wallet information, private DMs, or non-public screenshots.
+
+---
 
 ## Simple submission format
 
