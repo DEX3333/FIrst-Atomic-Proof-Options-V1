@@ -36,9 +36,6 @@ Submit:
 - A screenshot or copied excerpt of the section that helped
 - A short explanation of why it made Post Fiat clearer
 
-**Privacy rule:**
-
-Use only public Post Fiat pages. Do not include private chats, wallet information, personal account details, or non-public screenshots.
 
 ---
 
@@ -66,9 +63,6 @@ Submit:
 - A short explanation of the confusion
 - One suggested improvement
 
-**Privacy rule:**
-
-Use only public Post Fiat pages. Do not include private chats, wallet information, personal account details, or non-public screenshots.
 
 ---
 
@@ -96,11 +90,10 @@ Submit:
 - Any public link, post, page, screenshot, or artifact that helped bring you in
 - One sentence explaining what made you move from passive interest to active exploration
 
+---
 **Privacy rule:**
 
 Use only public or privacy-safe references. Do not include private chats, personal account details, wallet information, private DMs, or non-public screenshots.
-
----
 
 ## Simple submission format
 
