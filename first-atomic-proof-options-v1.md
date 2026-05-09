@@ -1,6 +1,6 @@
 # First Atomic Proof Options v1
 
-## A tiny first step into Post Fiat
+## A first step into Post Fiat
 
 Post Fiat is an independent XRPL-derived Layer 1 network.
 
@@ -138,12 +138,12 @@ The goal is to turn one honest newcomer reaction into useful proof.
 
 ---
 
-## Suggested verification response
+## Where to submit
 
-```txt
-Published First Atomic Proof Options v1 here:
+Post your completed response in the Post Fiat Discord under:
 
-[PASTE PUBLIC GITHUB URL]
+`#first-atomic-proofs`
 
-The page is a narrowed no-login activation surface focused on three under-30-minute Post Fiat-native proof actions: a Clarity Signal, a Friction Signal, and a Discovery Signal. Each option asks a newcomer to submit a small privacy-safe response with a public URL, screenshot, excerpt, or written explanation. This avoids duplicating the broader Conversion Kit v1 and keeps the outcome focused on one small proof-backed action.
-```
+If that channel does not exist yet, post it wherever newcomer tasks or Task Node submissions are currently being collected, and include the title:
+
+`First Atomic Proof Options v1 Submission`
