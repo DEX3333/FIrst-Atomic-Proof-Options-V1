@@ -12,6 +12,8 @@ It is a simple menu of three small Post Fiat-native proof actions that a newcome
 
 Pick one option. Submit one proof-backed response.
 
+No wallet, account, or private information is required to complete this first proof.
+
 ---
 
 ## Option 1: Clarity Signal
@@ -133,10 +135,12 @@ The goal is to turn one honest newcomer reaction into useful proof.
 
 ## Where to submit
 
-Post your completed response in the Post Fiat Discord under:
+Post your completed response in the Post Fiat Discord using the title:
+
+`First Atomic Proof Options v1 Submission`
+
+Preferred channel:
 
 `#first-atomic-proofs`
 
-If that channel does not exist yet, post it wherever newcomer tasks or Task Node submissions are currently being collected, and include the title:
-
-`First Atomic Proof Options v1 Submission`
+If that channel does not exist yet, use the current newcomer tasks, Task Node, or proof-submission channel.
